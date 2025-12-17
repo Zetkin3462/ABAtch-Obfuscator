@@ -10,9 +10,6 @@
 ## 📈 Examples
 
 ### Before:
-
-Readable code with clear logic:
-
 ```batch
 @echo off
 title Hello World
@@ -25,9 +22,6 @@ pause
 ```
 
 ### After:
-
-Fully protected code using Paradox techniques:
-
 ```batch
 @echo off
 chcp 65001 >nul
