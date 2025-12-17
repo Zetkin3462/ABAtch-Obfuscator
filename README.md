@@ -1,5 +1,5 @@
 # 🛡️ ABAtch-Obfuscator
-**ABAtch-Obfuscator** is a powerful tool designed to obfuscate Windows Batch files (.bat / .cmd) using advanced Substring Mapping and visual homograph variable techniques.
+**ABAtch-Obfuscator** is batch obfuscator on python.
 ## 🚀 How to use
 
 1. **Download Python**: Install Python version 3.10 or higher.
@@ -9,7 +9,7 @@
 
 ## 📈 Examples
 
-### #Before:
+### Before:
 
 Readable code with clear logic:
 
@@ -24,7 +24,7 @@ pause
 
 ```
 
-### #After:
+### After:
 
 Fully protected code using Paradox techniques:
 
